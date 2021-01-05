@@ -1,4 +1,8 @@
-来源于有道云笔记
+###教程和实例在我的有道云笔记
+
+#####其它菜鸟教程  https://www.runoob.com/markdown/md-tutorial.html
+
+#####实例已放入码云：https://gitee.com/lishuoboy/lishuoboy-markdown
 
 # h1
 ## h2
